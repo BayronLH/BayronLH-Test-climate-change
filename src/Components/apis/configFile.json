@@ -1,0 +1,4 @@
+{
+  "emissions": "http://api.worldbank.org/v2/country/all/indicator/SP.POP.TOTL",
+  "ClimateChanges": "http://api.worldbank.org/v2/country/all/indicator/SP.POP.TOTL"
+}

@@ -1,0 +1,32 @@
+.content {
+  padding: 20px;
+  font-color: #000;
+}
+
+.item4 {
+  font-size: 18px;
+  padding: 15px 20px;
+  font-color: #000;
+}
+.item4:hover {
+  background-color: #ffffff;
+  font-color: #000;
+}
+
+.ui grid {
+  margin-top: 20px;
+  font-color: #000;
+}
+
+.menu {
+  padding: 20px;
+  background-color: rgb(238, 237, 237);
+  font-color: #000;
+}
+.item2 {
+  font-color: #000;
+  font-size: 14px;
+  position: absolute;
+  left: 5px;
+  top: 20px;
+}
